@@ -50,7 +50,7 @@ const Project = () => {
                 </div>
 
 
-                <div className={`sidePanel w-full h-1/2 bg-slate-600 absolute top-0 ${isSidePanelOpen ? 'left-0' : 'left-[-100%]'} transition-all duration-300`}>
+                <div className={`sidePanel w-full h-1/2 bg-gray-600 absolute top-0 ${isSidePanelOpen ? 'left-0' : 'left-[-100%]'} transition-all duration-300`}>
 
                     <header className={'flex justify-end p-2 px-3 bg-slate-300'}>
 
